@@ -2,11 +2,11 @@
   "compilerOptions": {
     "outDir": "./dist",
     "noImplicitAny": true,
-    "module": "ESNext",
-    "target": "ESNext",
-    "moduleResolution": "node",
+    "module": "NodeNext",
+    "target": "ES6",
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "alwaysStrict": true,
+    "esModuleInterop": true
   }
 }
